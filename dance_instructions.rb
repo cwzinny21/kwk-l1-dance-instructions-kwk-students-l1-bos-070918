@@ -31,5 +31,14 @@
   
   def bust_a_move
     puts "Be cool and be snazzy"
-  end
+  end 
+  
+  def gagnam_style
+    starting_stance
+    base_footwork
+    skip_step
+    bob_the_reins
+    lasso
+    bust_a_move
+  end 
    
