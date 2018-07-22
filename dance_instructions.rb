@@ -11,6 +11,7 @@
   
   def skip_step
     puts "Lower #{skip_step} to the ground"
-    puts "Bounce #{skip_step} "
+    puts "Bounce #{skip_step} back up slightly, kicking it a few inches back
+Left, Right, Left and Left"
   end 
    
