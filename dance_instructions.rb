@@ -5,6 +5,6 @@ def lower_body
     puts "Plant legs far apart"
   end 
   
-  def 
+   
   
 end 
