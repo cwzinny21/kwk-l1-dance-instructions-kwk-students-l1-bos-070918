@@ -9,9 +9,8 @@
     skip_step("left foot")
   end 
   
-  
-  
   def skip_step
-    puts "Skip a step"
+    puts "Lower #{skip_step} to the ground"
+    puts "Bounce #{skip_step} "
   end 
    
