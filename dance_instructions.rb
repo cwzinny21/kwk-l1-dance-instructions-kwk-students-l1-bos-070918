@@ -20,6 +20,8 @@
     puts "Cross your right wrist over your left and hold them together"
     puts "Lift your arms up and down in a loose bouncing movement, in time with the beat of the song. This movement is repeated eight times."
     puts "Do this 7 more times!"
-    
   end 
+  
+  def lasso 
+    puts ""
    
